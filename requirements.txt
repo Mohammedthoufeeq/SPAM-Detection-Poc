@@ -2,3 +2,5 @@ PyQt5==5.15.4
 requests==2.26.0
 json==0.9.7
 re==2.2.1
+socket==2.3.9
+threading==3.1.0
